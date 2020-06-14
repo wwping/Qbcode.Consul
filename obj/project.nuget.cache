@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vhkP3XQW1FdnAehNuhPpxy04++KC/o0w7Ndb+MXRKzhESgPRUV+fr+dZ5Q/Fp4YKYzl0DxFKmLNiWB1QMarYFA==",
+  "success": true,
+  "projectFilePath": "D:\\绿色\\projects\\service.core30\\api.core\\Qbcode.Concul\\Qbcode.Concul.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wwping\\.nuget\\packages\\beetlex\\1.5.1.7\\beetlex.1.5.1.7.nupkg.sha512",
+    "C:\\Users\\wwping\\.nuget\\packages\\beetlex.fasthttpapi\\1.8.2.7\\beetlex.fasthttpapi.1.8.2.7.nupkg.sha512",
+    "C:\\Users\\wwping\\.nuget\\packages\\consul\\1.6.1.1\\consul.1.6.1.1.nupkg.sha512",
+    "C:\\Users\\wwping\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

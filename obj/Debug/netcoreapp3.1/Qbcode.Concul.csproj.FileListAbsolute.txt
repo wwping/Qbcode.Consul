@@ -1,0 +1,12 @@
+D:\绿色\projects\service.core30\api.core\Qbcode.Concul\bin\Debug\netcoreapp3.1\Qbcode.Concul.deps.json
+D:\绿色\projects\service.core30\api.core\Qbcode.Concul\bin\Debug\netcoreapp3.1\Qbcode.Concul.dll
+D:\绿色\projects\service.core30\api.core\Qbcode.Concul\bin\Debug\netcoreapp3.1\Bumblebee.dll
+D:\绿色\projects\service.core30\api.core\Qbcode.Concul\bin\Debug\netcoreapp3.1\Bumblebee.pdb
+D:\绿色\projects\service.core30\api.core\Qbcode.Concul\obj\Debug\netcoreapp3.1\Qbcode.Concul.csprojAssemblyReference.cache
+D:\绿色\projects\service.core30\api.core\Qbcode.Concul\obj\Debug\netcoreapp3.1\Qbcode.Concul.AssemblyInfoInputs.cache
+D:\绿色\projects\service.core30\api.core\Qbcode.Concul\obj\Debug\netcoreapp3.1\Qbcode.Concul.AssemblyInfo.cs
+D:\绿色\projects\service.core30\api.core\Qbcode.Concul\obj\Debug\netcoreapp3.1\Qbcode.Concul.csproj.CopyComplete
+D:\绿色\projects\service.core30\api.core\Qbcode.Concul\bin\Debug\netcoreapp3.1\Qbcode.Concul.pdb
+D:\绿色\projects\service.core30\api.core\Qbcode.Concul\obj\Debug\netcoreapp3.1\Qbcode.Concul.csproj.CoreCompileInputs.cache
+D:\绿色\projects\service.core30\api.core\Qbcode.Concul\obj\Debug\netcoreapp3.1\Qbcode.Concul.dll
+D:\绿色\projects\service.core30\api.core\Qbcode.Concul\obj\Debug\netcoreapp3.1\Qbcode.Concul.pdb

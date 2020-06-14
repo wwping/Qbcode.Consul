@@ -1,0 +1,107 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Qbcode.Concul/1.0.0": {
+        "dependencies": {
+          "BeetleX.Bumblebee": "1.3.6.7",
+          "Consul": "1.6.1.1"
+        },
+        "runtime": {
+          "Qbcode.Concul.dll": {}
+        }
+      },
+      "BeetleX/1.5.1.7": {
+        "runtime": {
+          "lib/netcoreapp2.1/BeetleX.dll": {
+            "assemblyVersion": "1.5.1.7",
+            "fileVersion": "1.5.1.7"
+          }
+        }
+      },
+      "BeetleX.FastHttpApi/1.8.2.7": {
+        "dependencies": {
+          "BeetleX": "1.5.1.7",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/BeetleX.FastHttpApi.dll": {
+            "assemblyVersion": "1.8.2.7",
+            "fileVersion": "1.8.2.7"
+          }
+        }
+      },
+      "Consul/1.6.1.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Consul.dll": {
+            "assemblyVersion": "1.6.1.1",
+            "fileVersion": "1.6.1.1"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
+      "BeetleX.Bumblebee/1.3.6.7": {
+        "dependencies": {
+          "BeetleX.FastHttpApi": "1.8.2.7"
+        },
+        "runtime": {
+          "Bumblebee.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Qbcode.Concul/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BeetleX/1.5.1.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n6eEUFxOH0N8ptk711YY9EE0kWxHSwmuPVYFjgemiWAX7xwlYmp4yuYl3oUOxbtHHNbMmOj8lOsEJbmrwFy/yA==",
+      "path": "beetlex/1.5.1.7",
+      "hashPath": "beetlex.1.5.1.7.nupkg.sha512"
+    },
+    "BeetleX.FastHttpApi/1.8.2.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nC+y3gKx+BOIu3tKOPNqNAL/76awKS+EkbLs5iS276xYrL6+ONGenTrvkCIS11AlzpTZfjbc9TXJiaobk3qB4Q==",
+      "path": "beetlex.fasthttpapi/1.8.2.7",
+      "hashPath": "beetlex.fasthttpapi.1.8.2.7.nupkg.sha512"
+    },
+    "Consul/1.6.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AJkBiix1bT3cSZRO6OD0Ee31Co1qgVkmVBFwpxym9WdxH5K6LfmAZ8Vb8nGvo9EKC+ir2sv5fKIrY75aENcMDA==",
+      "path": "consul/1.6.1.1",
+      "hashPath": "consul.1.6.1.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "BeetleX.Bumblebee/1.3.6.7": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
