@@ -48,12 +48,12 @@ meta.Add("path", "^/home/http/.*");
 meta.Add("path-ws", "^/home/ws/.*");
 client.Agent.ServiceRegister(new AgentServiceRegistration
 {
-    Tags = new string[] { "Bumblebee" },
+    Tags = new string[] { "ws" },
     Address = "127.0.0.1",
-    Port = 8080,
-    Name = "bumblebee_services",
+    Port = 5026,
+    Name = "ws_service",
     Meta = meta,
-    ID = "api_test1"
+    ID = "ws_service"
 }).Wait();
 
 ```
